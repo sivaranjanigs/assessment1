@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+   }
+   h1{
+    margin-left: 450px;
+    }
+   p{
+       width: 400px;
+       border-style:solid;
+       padding: 15px;
+       margin-left: 350px;
+       border-width: 3px;
+       border-color:red;
+      }
+      div{
+          margin-left: 450px;
+      }
+   ul{
+    margin-right: 150px;
+    }
+    h3
+    {
+        margin-left: 400px;
+    }
+  
